@@ -31,6 +31,8 @@ The dataset contains air pollution data collected from various cities and monito
 * SO2
 * OZONE
 
+Note: NH3 was excluded from the dataset due to a high number of missing values to ensure better model performance and data reliability.
+
 ---
 
 ## ⚙️ Workflow
